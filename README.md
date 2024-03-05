@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Basic Backend & Frontend Development**
 
-- 📫 How to reach me through <a href="mailto:cjnwuju155@gmail.com" align="down"><img src="https://img.shields.io/badge/Gmail-112?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
+- 📫 You can reach me through <a href="mailto:cjnwuju155@gmail.com" align="down"><img src="https://img.shields.io/badge/Gmail-112?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
 
 - ⚡ Fun fact **I play the Keyboard and I'm also a gamer**
 

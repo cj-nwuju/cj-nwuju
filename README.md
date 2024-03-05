@@ -33,13 +33,13 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>My Contributions 🐍</h2>
   <br>
   <img alt"snake eating my contributions" src="https://raw.githubusercontent.com/cj-nwuju/cj-nwuju/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
-</div>
+</div> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-nwuju&show_icons=true&locale=en&layout=compact" alt="cj-nwuju" /></p>
 

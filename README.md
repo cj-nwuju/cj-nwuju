@@ -6,11 +6,11 @@
 
 <h3 align="center">An Nigerian inquisitive developer studying Computer Science @kiboschool</h3>
 
-- 👨‍💻 All of my design projects are available at [CJ's Design Portfolio](https://www.tinyurl.com/cjnwuju)
+- 👨‍💻 All of my design projects are available at [CJ's Design Portfolio](https://cj-nwuju.github.io)
 
 - 📄 Know about my experiences [CJ's Resume](https://docs.google.com/document/d/1vRhp-U4cErPDSTH5vTTtwyoezLpRp6MJgl9813lF59I/edit?usp=sharing)
 
-- 💬 Ask me about **Basic Backend & Frontend Development**
+- 💬 Ask me about **Basic Backend & Frontend Development & Creative Design**
 
 - 📫 You can reach me through <a href="mailto:cjnwuju155@gmail.com" align="down"><img src="https://img.shields.io/badge/Gmail-112?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
 
